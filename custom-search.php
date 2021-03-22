@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Custom Search
+Plugin Name: WP Custom Search
 Plugin URI:
 description: This plugin will add search by categories capability to the standard post search.
 Version: 1.2
