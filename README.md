@@ -1,5 +1,5 @@
 # wp-custom-search
 
-- This is a wordpress custom search plugin to add categories and multiple post type search to the standard post search
+- This plugin can be used to add categories to wordpress posts search with post type search capabilities
 
-- This repo has a customised search form for the twentytwentyone theme
+- This repo has a customised adapted search form for the twentytwentyone theme
